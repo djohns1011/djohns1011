@@ -5,7 +5,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 🎓 I'm a student at Model Engineering College
-- 📚 I’m currently learning Git, Github, Python, Oracle Apex
+- 📚 I’m currently learning Git, Github, Python, Oracle Apex and Java
 - 💬 Ask me about Sql, Python
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas
 - ⚡ Fun fact: I love using Software as a solution for every Problem
