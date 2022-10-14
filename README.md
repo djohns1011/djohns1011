@@ -21,3 +21,5 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="mailto:dennis.johns1011@gmail.com"><img src="https://img.shields.io/badge/-dennis.johns1011@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<a href="https://app.daily.dev/d_johns_1011"><img src="https://api.daily.dev/devcards/6361a5d0da364a53846ed547e5523d34.png?r=0hj" width="400" alt="Dennis Johns's Dev Card"/></a>
