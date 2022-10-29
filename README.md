@@ -23,4 +23,11 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="mailto:dennis.johns1011@gmail.com"><img src="https://img.shields.io/badge/-dennis.johns1011@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=djohns1011&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=djohns1011&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
