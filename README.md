@@ -5,7 +5,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 🎓 I'm a student at Model Engineering College
-- 📚 I’m currently learning Python, Oracle Apex and Java
+- 📚 I’m currently learning Oracle Apex, JavaScript and Java
 - 💬 Ask me about Sql, Python
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas
 - ⚡ Fun fact: I love using Software as a solution for every Problem
@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
